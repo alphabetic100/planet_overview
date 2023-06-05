@@ -1,6 +1,6 @@
 # soler_system
 
-A new Flutter project.
+this is a project for our solar syltem planet overview
 
 ## Getting Started
 
